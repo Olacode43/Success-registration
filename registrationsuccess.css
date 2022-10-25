@@ -1,0 +1,12 @@
+div.success {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+  height: 60vh;
+  /* border: 1px solid green; */
+  /* background: rgb(114, 113, 113); */
+  color: green;
+  margin: auto;
+  margin-top: 12%;
+}
